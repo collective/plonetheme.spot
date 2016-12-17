@@ -8,7 +8,7 @@ Spot
 
 A flat theme for Plone 5.
 
-.. image:: https://raw.githubusercontent.com/vikas-parashar/plonetheme.spot/master/demo.png
+.. image:: https://raw.githubusercontent.com/collective/plonetheme.spot/master/demo.png
 
 Installation
 ------------
@@ -34,14 +34,6 @@ Install plonetheme.spot by adding it to your buildout::
 
 and then running ``bin/buildout``
 
-
-Demo
-~~~~
-
-   This theme can be seen in action at the following site:
-
--  `Spot Theme Demo`_
-
 Documentation
 -------------
 
@@ -57,7 +49,6 @@ Credit
 
 Based on `Spot – Freelance & Agency Theme`_
 
-.. _zip file: https://github.com/vikas-parashar/plonetheme.spot/blob/master/plonetheme.spot.zip?raw=true
-.. _Spot Theme Demo: http://107.170.136.197:8080/spot
+.. _zip file: https://github.com/collective/plonetheme.spot/blob/master/plonetheme.spot.zip?raw=true
 .. _Spot – Freelance & Agency Theme: http://blacktie.co/2013/10/spot-freelance-agency-theme
-.. _here: https://github.com/vikas-parashar/plonetheme.spot/blob/master/docs/index.rst
+.. _here: https://github.com/collective/plonetheme.spot/blob/master/docs/index.rst
