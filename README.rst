@@ -52,3 +52,14 @@ Based on `Spot – Freelance & Agency Theme`_
 .. _zip file: https://github.com/collective/plonetheme.spot/blob/master/plonetheme.spot.zip?raw=true
 .. _Spot – Freelance & Agency Theme: http://blacktie.co/2013/10/spot-freelance-agency-theme
 .. _here: https://github.com/collective/plonetheme.spot/blob/master/docs/index.rst
+
+Screenshots
+-----------
+
+Full size screenshot:
+
+.. image:: https://raw.githubusercontent.com/collective/plonetheme.spot/master/docs/plonetheme.spot-screenshot.jpg
+
+iPhone Plus screenshot:
+
+.. image:: https://raw.githubusercontent.com/collective/plonetheme.spot/master/docs/plonetheme.spot-screenshot-iphone-plus.jpg
