@@ -10,6 +10,8 @@ A flat theme for Plone 5.
 
 .. image:: https://raw.githubusercontent.com/collective/plonetheme.spot/master/demo.png
 
+See additional screenshots below.
+
 Installation
 ------------
 
