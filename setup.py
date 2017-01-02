@@ -27,7 +27,7 @@ setup(
         "Operating System :: OS Independent",
         "License :: OSI Approved :: MIT License",
     ],
-    keywords='Python Plone Theme <web></web>',
+    keywords='Python Plone Theme Web',
     author='Vikas Parashar',
     author_email='svnitvikas@gmail.com',
     url='https://github.com/collective/plonetheme.spot',
