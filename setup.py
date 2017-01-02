@@ -13,7 +13,7 @@ long_description = '\n\n'.join([
 
 setup(
     name='plonetheme.spot',
-    version='1.2.dev0',
+    version='1.2',
     description="A theme for Plone 5",
     long_description=long_description,
     # Get more from https://pypi.python.org/pypi?%3Aaction=list_classifiers
@@ -21,6 +21,7 @@ setup(
         "Environment :: Web Environment",
         "Framework :: Plone",
         "Framework :: Plone :: 5.0",
+        "Framework :: Plone :: 5.1",
         "Programming Language :: Python",
         "Programming Language :: Python :: 2.7",
         "Operating System :: OS Independent",
@@ -29,7 +30,7 @@ setup(
     keywords='Python Plone Theme <web></web>',
     author='Vikas Parashar',
     author_email='svnitvikas@gmail.com',
-    url='https://pypi.python.org/pypi/plonetheme.spot',
+    url='https://github.com/collective/plonetheme.spot',
     license='MIT License',
     packages=find_packages(exclude=['ez_setup']),
     namespace_packages=['plonetheme'],
