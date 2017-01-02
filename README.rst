@@ -2,7 +2,7 @@
 Spot
 ==============================================================================
 
-A flat theme for Plone 5.
+A flat theme for Plone 5.x
 
 .. image:: https://raw.githubusercontent.com/collective/plonetheme.spot/master/demo.png
 
