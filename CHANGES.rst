@@ -4,7 +4,8 @@ Changelog
 1.2.3 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- fix pypi keyword
+  [tkimnguyen]
 
 
 1.2.2 (2017-01-02)
