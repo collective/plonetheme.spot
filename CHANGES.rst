@@ -1,8 +1,11 @@
 Changelog
 ---------
 
-1.2.3 (unreleased)
+1.2.3 (2017-11-20)
 ------------------
+
+- add Framework :: Plone :: Theme classifier, update MANIFEST.in
+  [tkimnguyen]
 
 - fix pypi keyword
   [tkimnguyen]
